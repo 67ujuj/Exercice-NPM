@@ -1,0 +1,23 @@
+{
+  "name": "librairie",
+  "version": "1.0.0",
+  "description": "projet bootstrap & swal2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/67ujuj/Exercice-NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/67ujuj/Exercice-NPM/issues"
+  },
+  "homepage": "https://github.com/67ujuj/Exercice-NPM#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3",
+    "sweetalert2": "^11.7.5"
+  }
+}
